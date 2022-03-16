@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Mimo-Wang
-- 👀 I’m interested in Python, JavaScript, CSS, HTML
-
-<!---
-Mimo-Wang/Mimo-Wang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 😊😊😊 你好，我是 @Mimo-Wang
+- 😍😍😍 我在学习Python, JavaScript, CSS, HTML
+- 😊😊😊 欢迎来到我的小窝 https://Mimo-Wang.github.io/ ！
