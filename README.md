@@ -1,3 +1,1 @@
-- 😊😊😊 你好，我是 @Mimo-Wang
-- 😍😍😍 我在学习Python, JavaScript, CSS, HTML
-- 😊😊😊 欢迎来到我的小窝 https://Mimo-Wang.github.io/ ！
+- @Mimo-Wang
